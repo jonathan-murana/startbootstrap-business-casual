@@ -27,11 +27,14 @@
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
+    "connect": "^3.6.3",
     "jquery": "^3.2.1",
-    "popper.js": "^1.11.1"
+    "popper.js": "^1.11.1",
+    "serve-static": "^1.12.4"
   },
   "devDependencies": {
     "browser-sync": "2.18.13",
+    "grunt-serve": "^0.1.6",
     "gulp": "^3.9.1"
   }
 }
